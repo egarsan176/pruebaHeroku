@@ -1,0 +1,8 @@
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/WebDeVentaV2Application.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/controller/MainController.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/service/ProductoService.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/service/PedidoService.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/service/UsuarioService.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/model/Producto.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/model/Pedido.java
+/home/estefgar/workspacesEclipse/IDE-DESPLIEGUE/webDeVentaDESPL/src/main/java/com/example/demo/model/Usuario.java

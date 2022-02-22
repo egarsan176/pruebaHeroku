@@ -1,0 +1,8 @@
+com/example/demo/service/PedidoService.class
+com/example/demo/model/Pedido.class
+com/example/demo/service/ProductoService.class
+com/example/demo/service/UsuarioService.class
+com/example/demo/controller/MainController.class
+com/example/demo/WebDeVentaV2Application.class
+com/example/demo/model/Producto.class
+com/example/demo/model/Usuario.class
